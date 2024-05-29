@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://https://hehado-dydy.nomorepartiesco.ru//api'
+export const BASE_URL = 'https://https://hehado-dydy.nomorepartiesco.ru//api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
